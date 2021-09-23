@@ -7,7 +7,7 @@
 
      --> 2D는 단순한 이미지의 합성 차원이 아닌 결과물을 표현하기 위한 가장 기본적인 개념(3D 분야와 밀접한 관련)
      
-     맵핑, 합성등을 할 때에도 2D의 방식이 필요하기도 함
+     맵핑, 합성등을 할 때에도 2D의 방식이 필요하기도 함   
           
           
           
@@ -16,7 +16,7 @@ disit = 숫자  / al = ~화 된  --> 숫자화 된
 
 0 = black   /  1 = white    --> 컴퓨터는 숫자를 색상으로 치환하여 보여줌
 
- -> 컴퓨터는 픽셀(숫자, 디지털 정보)로 사진을 보기 때문에 고양이 사진을 바로 고양이로 인지 못함
+ -> 컴퓨터는 픽셀(숫자, 디지털 정보)로 사진을 보기 때문에 고양이 사진을 바로 고양이로 인지 못함   
  
  
  
@@ -45,7 +45,7 @@ disit = 숫자  / al = ~화 된  --> 숫자화 된
 * CGI : 컴퓨터를 사용하여 만든 이미지(특수효과, fx 등)를 레이어링
 * MULTIPLE EXPOSURE : 여러 이미지 겹쳐서
 
-출처 : https://beverlyboy.com/filmmaking/what-are-the-different-types-of-compositing-techniques-in-film/
+출처 : https://beverlyboy.com/filmmaking/what-are-the-different-types-of-compositing-techniques-in-film/   
  
  
  
@@ -69,7 +69,7 @@ disit = 숫자  / al = ~화 된  --> 숫자화 된
 * 대표적 8 bit 포맷 : JPG(그래서 이미지가 압축되는 것..)
 * 10~16 bit : RAW 포맷은 확장자가 다 다름, CCD 단자가 표현할 수 있는 최대한의 픽셀값을 저장할 수 있음(같은 해상도일때 JPG보다 훨 좋음)
 * 저가형 모니터의 경우 6bit 표현, bit 값 클수록 모니터 비싸짐, 포토샵의 경우 8 bit(2D에 맞춰진 툴)
-* bit depth는 채널 하나를 말한다. (RGB는 채널 하나가 총 3개 있는 것)
+* bit depth는 채널 하나를 말한다. (RGB는 채널 하나가 총 3개 있는 것)   
 
 
 
