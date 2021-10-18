@@ -43,9 +43,11 @@ https://www.youtube.com/watch?v=H8aoUXjSfsI   -  그린스크린 합성의 역�
   
   -Ultimatte : fg 위 이미지 연결, bg 아래이미지 연결(없어도 상관x)
   
-  -Primatte : fg 위 이미지 연결, bg 아래이미지 연결(없어도 상관x)
+  -Primatte : 정교하게 색 공간을 분할(RGB 색상공간 분리)시켜서 노이즈를 잡아줌
   
-  operation 옵션 - 스포이드로 색 선택해서 clean BG noise 등으로 노이즈 지울 수 있음, 화살표는 다음 단계로, lingting 조명 할건지
+   fg 위 이미지 연결, bg 아래이미지 연결(없어도 상관x)
+  
+   operation 옵션 - 스포이드로 색 선택해서 clean BG noise 등으로 노이즈 지울 수 있음, 화살표는 다음 단계로, lingting 조명 할건지
   
   -IBKGizmoV3
   
