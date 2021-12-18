@@ -131,7 +131,9 @@
   - volume_indirect : 볼륨 산란 간접 조명
   - volume_oppacity :  볼륨에 대해서만 전체 3채널 불투명도가 있는 RGB AOV
 
-
+* 출처 : https://learn.foundry.com/katana/Content/ug/rendering_scene/define_aov_output.html , https://docs.arnoldrenderer.com/display/A5AFMUG/AOVs+for+Image+Compositing , https://docs.arnoldrenderer.com/display/A5AFMUG/AOVs
 
 --
 ## Research : Ratracing, Scanline render difference
+
+### Ratracing
